@@ -1,0 +1,34 @@
+body{
+    background-color: #003300;
+}
+
+h1{
+    color: #fff5e6;
+    text-align: center;
+    font-family:Verdana,Geneva,sans-serif;
+    font-style: oblique;
+}
+
+h2{
+    color: #fff5e6;
+    font-family:Verdana,Geneva,sans-serif;
+    font-style: oblique;
+}
+
+p{
+    color: white;
+}
+
+#postbody{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+button{
+    background-color:#fff5e6;
+    border: none;
+    color:#003300;
+    text-align:center;
+    display: inline-block;
+    font-size: 16px;
+}
